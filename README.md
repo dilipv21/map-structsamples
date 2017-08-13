@@ -1,2 +1,3 @@
 # map-structsamples
-Samples of MapStruct 
+Samples of MapStruct  (Dilip)
+
